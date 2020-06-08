@@ -1,24 +1,11 @@
-# lezione-con-router
+Progetto realizzato seguendo le video-lezioni 3 e 5 della cartella "Vue advanced" del corso di INFO2.
 
-## Project setup
-```
-yarn install
-```
+# Contenuto
+Router e Bootstrap.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
+Visualizzazione di due "pagine" gestite da Router di cui una fornisce due differenti visualizzazioni attraverso un "Toggle" botton.
 
-### Compiles and minifies for production
+Per far partire il tutto:
 ```
-yarn build
+> npm run serve
 ```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
